@@ -13,3 +13,8 @@ Use your mouse to drag and drop cute little chicks out of the paths of attacking
 The number of cats increases every level until there is no escape. The Chickpocalypse is inevitable!
 
 # Screenshots
+<img width="699" height="654" alt="menu-screenshot" src="https://github.com/user-attachments/assets/efd9b7a4-0094-4651-8c13-e2959840983c" />
+
+<img width="616" height="621" alt="level-1-screenshot" src="https://github.com/user-attachments/assets/5a20aa0e-164d-4ccc-9203-cb01881009f9" />
+
+<img width="616" height="621" alt="level-10-screenshot" src="https://github.com/user-attachments/assets/ebd8cc28-d6d8-464c-9961-738ede438a92" />

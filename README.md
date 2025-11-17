@@ -6,6 +6,12 @@ It was made working on and off for about a week before the deadline. Maybe one y
 
 It's meant to be a bit of a chaotic game. It's meant to be difficult.
 
+# Voting Results
+
+Out of 176 entries, "Chickpocalypse Meow!" finished 24th overall and 10th in "Innovation" :)
+
+<img width="709" height="682" alt="js13k-2025-results" src="https://github.com/user-attachments/assets/ea834fd6-bf13-4b4a-aac4-3fe799ddac13" />
+
 # Play It!
 
 Now that it has been officially accepted, play it here https://js13kgames.com/2025/games/chickpocalypse-meow
@@ -22,4 +28,5 @@ The number of cats increases every level until there is no escape. The Chickpoca
 <img width="616" height="621" alt="level-1-screenshot" src="https://github.com/user-attachments/assets/5a20aa0e-164d-4ccc-9203-cb01881009f9" />
 
 <img width="616" height="621" alt="level-10-screenshot" src="https://github.com/user-attachments/assets/ebd8cc28-d6d8-464c-9961-738ede438a92" />
+
 
